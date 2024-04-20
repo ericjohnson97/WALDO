@@ -1,0 +1,11 @@
+numpy==1.23.5
+--extra-index-url https://aiinfra.pkgs.visualstudio.com/PublicPackages/_packaging/onnxruntime-cuda-12/pypi/simple/
+onnxruntime_gpu==1.17.1
+opencv_contrib_python==4.5.5.62
+opencv_python_headless==4.7.0.72
+Pillow==10.0.0
+Requests==2.31.0
+--index-url https://download.pytorch.org/whl/cu121
+torch==2.1.0
+torchvision
+torchaudio
